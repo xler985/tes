@@ -1,134 +1,276 @@
-1.	Eris Rossi
-a.	Disadvantages
-i.	Fanaticism
-ii.	Selfish
-iii.	Overconfidence
-iv.	Impulsiveness
-v.	Sadism
-b.	Advantages
-i.	Luck
-ii.	Mind Control (Conditioning)
-iii.	Speak With Animals
-iv.	Social Chameleon
-v.	Social Regard
-vi.	Wealth
-c.	Details
-i.	Biology Major
-ii.	Daughter of [Mom] Rossi and Lucian Rossi. The two divorced quite a years back and Eris Rossi stayed with her father while Rebecca with her mother. She now returns to Cresthaven for the prestige but feels entitled to her mother’s and sister’s achievements
-iii.	Ecofascist, believes by culling what she believes to be the dregs can produce a utopian world without borders and open to all animal life. 
-iv.	Recruitment President of Kappa Omega Kappa, one of the largest sororities and a major influence in the social circles of the wealthy youth. 
-v.	Being used by Cohen and Tok Akil to abduct, recruit, and utilize young wealthy college students to both open a gate to the Inland Empire as well as gain support for the Nights of Radiance cult that attempt to help the empire.
-2.	Rebecca Rossi
-a.	Disadvantages
-i.	Curious
-ii.	Insomniac
-iii.	Squeamish
-iv.	Compulsive Gambler
-b.	Advantages
-i.	Tenure
-ii.	Visualization
-iii.	Single-Minded 
-iv.	Reputation
-c.	Details
-i.	Neurochemistry Major
-ii.	The chair of sciences at Cresthaven, leading many of the professors and advisors in research and pursuit of dementia research.
-iii.	She loves her mother greatly but she has received multiple divinations that reveal her mother will contract dementia in the next 5 years and she is doing everything in her power to cure this disease before it can take her mother. 
-iv.	Developed the brain gestalt machine to synchronize memories between multiple people and essentially create a memory backup of one person’s memories into another. 
-v.	That same machine is being copied, modified, and utilized to connect the brains of students to create a super intelligence necessary to open a portal to the Inland Empire.
-3.	Cohen MacMohan (Limelight Inc. Representative and the main security arm of the Nights of Radiance)
-a.	Disadvantages
-i.	Alcoholism
-ii.	Callous
-iii.	Chronic Depression
-iv.	Code of Honor (Soldier’s)
-v.	Fanaticism
-vi.	Nightmares
-b.	Advantages
-i.	 Combat Reflexes
-c.	Details
-i.	Fatherly, lost his two sons in a Sakhalin/Montelet border dispute
-ii.	Worked with Ren for a large amount of time, reminds him of his eldest son in many ways.
-iii.	Wanted to move on but every opportunity to change careers was met with resistance
-iv.	Now believes that by with the dissolution of independence, wars and conflicts will disappear and can reach a harmonic existence with nature and the universe (This is a falsehood perpetuated by Tor Akil, he doesn’t just want independence to dissolve, he wants existence to disappear) 
-4.	Tralon Featherlight
-a.	Disadvantages
-i.	Absent-Mindedness
-ii.	Easy to Read
-iii.	Bad Sight
-iv.	Curious
-v.	Oblivious
-vi.	Shyness
-b.	Advantages
-i.	Oracle
-c.	Details
-i.	Engineering Major
-ii.	Born into the famous Featherlight family but because of societal pressures, has self-isolated himself and become obsessed with drones and flying with complete freedom.
-iii.	Has kept it hidden from everyone he knows but he can see omens and hints of destiny. 
-iv.	Has slowly embezzling out funds out of the Featherlight charity and into the 
-5.	Lazilo Yolenheim
-a.	Disadvantages
-i.	Workaholic
-ii.	Easy to Read
-iii.	Miserliness
-iv.	Pacifism: Total Nonviolence
-v.	Post-Combat Shakes 
-b.	Advantages
-i.	Blessed
-ii.	Discriminatory Hearing
-iii.	Doesn’t Breathe
-iv.	Mimicry
-v.	Power Investiture
-vi.	Speak Underwater
-vii.	Silence
-viii.	Protected Sense (Speech)
-ix.	Subsonic Speech
-x.	Subsonic Hearing
-xi.	Ultrahearing
-xii.	Unaging
-xiii.	Voice
-xiv.	Walk on Liquid
-c.	Details
-i.	Music Major
-ii.	Was extremely poverty ridden until her deal with the Maiden of the Rim
-iii.	Contract involves making the world fall in love with the voice of the maiden
-6.	Professor Silas Rustling (Elven Anthropology Major)
-a.	Disadvantages
-i.	Lecherousness
-b.	Advantages
-i.	Tenure
-ii.	Charisma
-iii.	Intuition
-iv.	Claim to Hospitality 
-v.	Cultural Adaptability
-vi.	Contact Group
-vii.	Social Chameleon
-c.	Details
-i.	Talks like squidward but more elven
-ii.	Elven Anthropology Major
-iii.	Very pristine but kinda freaky. Big gentlemen explorer vibes
-7.	Professor Oak Steelbone (Mathematics Major)
-a.	Disadvantages
-i.	Unfit
-ii.	
-b.	Advantages
-i.	Tenure
-ii.	Visualization
-iii.	Hard to Kill
-iv.	Lightning Calculator
-c.	Details
-i.	Half-Orc
-ii.	Kinda rotund, kind, wears graphic tees
-8.	Liz Drizzle (Elven Grad Student)
-a.	Disadvantages
-i.	Secret
-ii.	Slow Eater
-iii.	Sense of Duty
-iv.	Kleptomania
-b.	Advantages
-i.	Perfect Balance
-ii.	Language Talent
-c.	Details
-i.	Mathematics Major
-ii.	Kinda mousy, kinda quite. 
-iii.	Levi Family operative, espionage focus, throws business cards
-
+Skill List:
+-	Accounting (IQ/H) 
+-	Acrobatics (DX/H)
+-	Acting (IQ/A)
+-	Administration (IQ/A)
+-	Aerobatics (DX/H)
+-	Airshipman/TL (IQ/E)
+-	Alchemy/TL (IQ/VH)
+-	Animal Handling† (IQ/A)
+-	Anthropology† (IQ/H)
+-	Aquabatics (DX/H)
+-	Archaeology (IQ/H)
+-	Architecture/TL (IQ/A)
+-	Area Knowledge† (IQ/E)
+-	Armoury/TL† (IQ/A)
+-	Artillery/TL† (IQ/A)
+-	Artist† (IQ/H)
+-	Astronomy/TL (IQ/H)
+-	Autohypnosis (Will/H)
+-	Axe/Mace (DX/A)
+-	Battlesuit/TL (DX/A)
+-	Beam Weapons/TL† (DX/E)
+-	Bicycling (DX/E)
+-	Bioengineering/TL† (IQ/H)
+-	Biology/TL† (IQ/VH)
+-	Blind Fighting (Per/VH)
+-	Blowpipe (DX/H)
+-	Boating/TL† (DX/A)
+-	Body Control (HT/VH)
+-	Body Language (Per/A)
+-	Body Sense (DX/H)
+-	Bolas (DX/A)
+-	Bow (DX/A)
+-	Boxing (DX/A)
+-	Brain Hacking/TL (IQ/H)
+-	Brainwashing/TL (IQ/H)
+-	Brawling (DX/E)
+-	Breaking Blow (IQ/H)
+-	Breath Control (HT/H)
+-	Broadsword (DX/A)
+-	Camouflage (IQ/E)
+-	Captivate (Will/H)
+-	Carousing (HT/E)
+-	Carpentry (IQ/E)
+-	Cartography/TL (IQ/A)
+-	Chemistry/TL (IQ/H)
+-	Climbing (DX/A)
+-	Cloak (DX/A)
+-	Combat Art or Sport (DX/Varies)
+-	Computer Hacking/TL (IQ/VH)
+-	Computer Operation (IQ/E)
+-	Computer Programming (IQ/H)
+-	Connoisseur† (IQ/A)
+-	Cooking (IQ/A)
+-	Counterfeiting/TL (IQ/H)
+-	Crewman/TL (IQ/E)
+-	Criminology/TL (IQ/A)
+-	Crossbow (DX/E)
+-	Cryptography/TL (IQ/H)
+-	Current Affairs/TL† (IQ/E)
+-	Dancing (DX/A)
+-	Detect Lies (Per/H)
+-	Diagnosis/TL (IQ/H)
+-	Diplomacy (IQ/H)
+-	Disguise/TL† (IQ/A)
+-	Diving Suit/TL (DX/A)
+-	Dreaming (Will/H)
+-	Driving/TL† (DX/A)
+-	Dropping (DX/A)
+-	Economics (IQ/H)
+-	Electrician/TL (IQ/A)
+-	Electronics Operation (IQ/A)
+-	Electronics Repair/TL†(IQ/A)
+-	Engineer/TL† (IQ/H)
+-	Enthrallment (Will/H)
+-	Environment Suit/TL (DX/A)
+-	Erotic Art (DX/A)
+-	Escape (DX/H)
+-	Esoteric Medicine (Per/H)
+-	Exorcism (Will/H)
+-	Expert Skill† (IQ/H)
+-	Explosives/TL† (IQ/A)
+-	Falconry (IQ/A)
+-	Farming/TL (IQ/A)
+-	Fast-Draw† (DX/E)
+-	Fast-Talk (IQ/A)
+-	Filch (DX/A)
+-	Finance (IQ/H)
+-	Fire Eating (DX/A)
+-	First Aid/TL (IQ/E)
+-	Fishing (Per/E)
+-	Flail (DX/H)
+-	Flig(HT/(HT/A)
+-	Flying Leap (IQ/H)
+-	Force Sword (DX/A)
+-	Force Whip (DX/A)
+-	Forced Entry (DX/E)
+-	Forensics/TL (IQ/H)
+-	Forgery/TL (IQ/H)
+-	Fortune-Telling† (IQ/A)
+-	Forward Observer/TL (IQ/A)
+-	Free Fall (DX/A)
+-	Freig(HT/Handling/TL (IQ/A)
+-	Gambling (IQ/A)
+-	Games† (IQ/E)
+-	Gardening (IQ/E)
+-	Garrote (DX/E)
+-	Geography/TL† (IQ/H)
+-	Geology/TL† (IQ/H)
+-	Gesture (IQ/E)
+-	Group Performance† (IQ/A)
+-	Gunner/TL† (DX/E)
+-	Guns/TL† (DX/E)
+-	Hazardous Materials (IQ/A)
+-	Heraldry (IQ/A)
+-	Herb Lore/TL (IQ/VH)
+-	Hidden Lore† (IQ/A)
+-	Hiking (HT/A)
+-	History† (IQ/H)
+-	Hobby Skill (DX or IQ/E)
+-	Holdout (IQ/A)
+-	Housekeeping (IQ/E)
+-	Hypnotism (IQ/H)
+-	Immovable Stance (DX/H)
+-	Innate Attack† (DX/E)
+-	Intelligence Analysis/TL (IQ/H)
+-	Interrogation (IQ/A)
+-	Intimidation (Will/A)
+-	Invisibility Art (IQ/VH)
+-	Jeweler/TL (IQ/H)
+-	Jitte/Sai (DX/A)
+-	Judo (DX/H)
+-	Jumping (DX/E)
+-	Karate (DX/H)
+-	Kiai (HT/H)
+-	Knife (DX/E)
+-	Knot-Tying (DX/E)
+-	Kusari (DX/H)
+-	Lance (DX/A)
+-	Lasso (DX/A)
+-	Law† (IQ/H)
+-	Leadership (IQ/A)
+-	Leatherworking (DX/E)
+-	Lifting (HT/A)
+-	Lig(HT/Walk (DX/H)
+-	Linguistics (IQ/H)
+-	Lip Reading (Per/A)
+-	Liquid Projector/TL† (DX/E)
+-	Literature (IQ/H)
+-	Lockpicking/TL (IQ/A)
+-	Machinist/TL (IQ/A)
+-	Main-Gauche (DX/A)
+-	Makeup/TL (IQ/E)
+-	Market Analysis (IQ/H)
+-	Masonry (IQ/E)
+-	Mathematics/TL† (IQ/H)
+-	Mechanic/TL† (IQ/A)
+-	Meditation (Will/H)
+-	Melee Weapon (DX/Varies)
+-	Mental Strength (Will/E)
+-	Merchant (IQ/A)
+-	Metallurgy/TL (IQ/H)
+-	Meteorology/TL† (IQ/A)
+-	Mimicry† (IQ/H)
+-	Mind Block (Will/A)
+-	Monowire Whip (DX/H)
+-	Mount (DX/A)
+-	Musical Composition (IQ/H)
+-	Musical Influence (IQ/VH)
+-	Musical Instrument† (IQ/H)
+-	Naturalist† (IQ/H)
+-	Navigation/TL† (IQ/A)
+-	NBC Suit/TL (DX/A)
+-	Net (DX/H)
+-	Observation (Per/A)
+-	Occultism (IQ/A)
+-	Packing (IQ/A)
+-	Paleontology/TL† (IQ/H)
+-	Panhandling (IQ/E)
+-	Parachuting/TL (DX/E)
+-	Parry Missile Weapons(DX/H)
+-	Performance (IQ/A)
+-	Persuade (Will/H)
+-	Pharmacy/TL† (IQ/H)
+-	Philosophy† (IQ/H)
+-	Photography/TL (IQ/A)
+-	Physician/TL (IQ/H)
+-	Physics/TL (IQ/VH)
+-	Physiology/TL† (IQ/H)
+-	Pickpocket (DX/H)
+-	Piloting/TL† (DX/A)
+-	Poetry (IQ/A)
+-	Poisons/TL (IQ/H)
+-	Polearm (DX/A)
+-	Politics (IQ/A)
+-	Power Blow (Will/H)
+-	Pressure Points (IQ/H)
+-	Pressure Secrets (IQ/VH)
+-	Professional Skill (DX or IQ/A)
+-	Propaganda/TL (IQ/A)
+-	Prospecting/TL (IQ/A)
+-	Psychology (IQ/H)
+-	Public Speaking (IQ/A)
+-	Push (DX/H)
+-	Rapier (DX/A)
+-	Religious Ritual† (IQ/H)
+-	Research/TL (IQ/A)
+-	Riding† (DX/A)
+-	Ritual Magic† (IQ/VH)
+-	Running (HT/A)
+-	Saber (DX/A)
+-	Savoir-Faire† (IQ/E)
+-	Scrounging (Per/E)
+-	Scuba/TL (IQ/A)
+-	Seamanship/TL (IQ/E)
+-	Search (Per/A)
+-	Sewing/TL (DX/E)
+-	Sex Appeal (HT/A)
+-	Shadowing (IQ/A)
+-	Shield† (DX/E)
+-	Shiphandling/TL† (IQ/H)
+-	Shortsword (DX/A)
+-	Singing (HT/E)
+-	Skating (HT/H)
+-	Skiing (HT/H)
+-	Sleight of Hand (DX/H)
+-	Sling (DX/H)
+-	Smallsword (DX/A)
+-	Smith/TL† (IQ/A)
+-	Smuggling (IQ/A)
+-	Sociology (IQ/H)
+-	Soldier/TL (IQ/A)
+-	Spacer/TL (IQ/E)
+-	Spear (DX/A)
+-	Spear Thrower (DX/A)
+-	Speed-Reading (IQ/A)
+-	Sports (DX/A)
+-	Staff (DX/A)
+-	Stage Combat (DX/A)
+-	Stealth (DX/A)
+-	Strategy† (IQ/H)
+-	Streetwise (IQ/A)
+-	Submarine/TL† (DX/A)
+-	Submariner/TL (IQ/E)
+-	Suggest (Will/H)
+-	Sumo Wrestling (DX/A)
+-	Surgery/TL (IQ/VH)
+-	Survival† (Per/A)
+-	Sway Emotions (Will/H)
+-	Swimming (HT/E HT-4 224
+-	Symbol Drawing† (IQ/H)
+-	Tactics (IQ/H)
+-	Teaching (IQ/A)
+-	Teamster† (IQ/A)
+-	Thaumatology (IQ/VH)
+-	Theology† (IQ/H)
+-	Throwing (DX/A)
+-	Throwing Art (DX/H)
+-	Thrown Weapon† (DX/E)
+-	Tonfa (DX/A)
+-	Tracking (Per/A)
+-	Traps/TL (IQ/A)
+-	Two-Handed Axe/Mace (DX/A)
+-	Two-Handed Flail (DX/H)
+-	Two-Handed Sword (DX/A)
+-	Typing (DX/E)
+-	Urban Survival (Per/A) 
+-	Vacc Suit/TL (DX/A)
+-	Ventriloquism (IQ/H)
+-	Veterinary/TL (IQ/H)
+-	Weather Sense (IQ/A)
+-	Weird Science (IQ/VH)
+-	Whip (DX/A) 
+-	Wrestling (DX/A)
+-	Writing (IQ/A)
+-	Zen Archery (IQ/VH)
